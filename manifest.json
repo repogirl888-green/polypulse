@@ -1,0 +1,25 @@
+{
+  "name": "PolyPulse — Prediction Market Tracker",
+  "short_name": "PolyPulse",
+  "description": "The pulse of the prediction markets — live Polymarket odds with Market Mama on the mic.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1229",
+  "theme_color": "#1a1229",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
